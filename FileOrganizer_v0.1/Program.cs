@@ -74,7 +74,7 @@ namespace FileOrganizer_v0._1
             {
                 Console.WriteLine("Name: " + fi.Name + ", directory: " + fi.Directory); //new names
             }
-            Console.ReadLine();
+            Console.ReadLine(); //press enter
         }
     }
 }
